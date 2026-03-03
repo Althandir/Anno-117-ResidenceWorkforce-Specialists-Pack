@@ -1,34 +1,179 @@
 <ModOps>
 
-  <!-- Specialist Test-C -->
+  <!-- Specialist R02ResidencesAdditionalWorkforceR01-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Specialist Test-C</Text>
-          <LineId>1600000000</LineId> <!-- <GUID>1600000000</GUID> -->
+          <Text>Promising Liberti</Text>
+          <LineId>1600000317</LineId> <!-- <GUID>1600000317</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Test Text. Meb Meb!</Text>
-          <LineId>1600000001</LineId> 
+          <Text>Worked hard for his success.</Text>
+          <LineId>1600000318</LineId> 
       </Text>
     </ModOp>
   </Group>
 
-  <!-- Specialist Test-C -->
+  <!-- Specialist R03ResidencesAdditionalWorkforceR01-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Specialist AreaEffect-Test-C</Text>
-          <LineId>1600000002</LineId> <!-- <GUID>1600000002</GUID> -->
+          <Text>Domitia Regilla, Always Accompanied</Text>
+          <LineId>1600000124</LineId> <!-- <GUID>1600000124</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Test Text. Meb Meb!</Text>
-          <LineId>1600000003</LineId> 
+          <Text>Always in need of a group of Liberti for her luxurious needs.</Text>
+          <LineId>1600000125</LineId> 
       </Text>
     </ModOp>
   </Group>
+
+  <!-- Specialist R04ResidencesAdditionalWorkforceR02-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Cornelia Operosa, the Fascinated One</Text>
+          <LineId>1600000126</LineId> <!-- <GUID>1600000126</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Is fascinated by the hard work of plebeians. Enjoys the bustling and artisanal activities.</Text>
+          <LineId>1600000127</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist R04ResidencesAdditionalWorkforceR01-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Marcus Pius, Fair and Thoughtful Patronus</Text>
+          <LineId>1600000156</LineId> <!-- <GUID>1600000156</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Knows without a mass of Liberti, he would be nothing.</Text>
+          <LineId>1600000157</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist C03ResidencesAdditionalWorkforceC02-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Retired Smith</Text>
+          <LineId>1600000190</LineId> <!-- <GUID>1600000190</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>The youth can always learn from the elder ones.</Text>
+          <LineId>1600000191</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist R03ResidencesAdditionalWorkforceR02-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Aspiring Plebeian</Text>
+          <LineId>1600000206</LineId> <!-- <GUID>1600000206</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Thanks to her hard work, she is ready to move up to the next roman stratum.</Text>
+          <LineId>1600000207</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist R04ResidencesAdditionalWorkforceR03-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Aspiring Equites</Text>
+          <LineId>1600000208</LineId> <!-- <GUID>1600000208</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Rich, but not rich enough to be considered that relevant.</Text>
+          <LineId>1600000209</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist RC03ResidencesAdditionalWorkforceRC02-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Grounded Nobleman</Text>
+          <LineId>1600000210</LineId> <!-- <GUID>1600000210</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Not as aloof as other nobles.</Text>
+          <LineId>1600000211</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist RC03C03ResidencesAdditionalWorkforceC01-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Lucia Domitius Catavignus, Romano-Celtic Envoy</Text>
+          <LineId>1600000238</LineId> <!-- <GUID>1600000238</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Closes the cultural gaps between Romans and Celts.</Text>
+          <LineId>1600000239</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist RC02ResidencesAdditionalWorkforceC01-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Merchant with Entourage</Text>
+          <LineId>1600000240</LineId> <!-- <GUID>1600000240</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Has so much to trade, always in need a company of strong man around.</Text>
+          <LineId>1600000241</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist C02ResidencesAdditionalWorkforceC01-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Lovestruck Wader</Text>
+          <LineId>1600000242</LineId> <!-- <GUID>1600000242</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Wants to bring flowers to his love, but only finds herbs.</Text>
+          <LineId>1600000243</LineId> 
+      </Text>
+    </ModOp>
+  </Group>  
+
 </ModOps>
