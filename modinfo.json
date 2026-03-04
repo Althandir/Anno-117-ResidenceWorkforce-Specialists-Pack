@@ -1,5 +1,5 @@
 {
-  "ModID": "shrine-specialists-pack-althandir-altdolphin",
+  "ModID": "residenceworkforce-specialists-pack-althandir-altdolphin",
   "Version": "1.0.0",
   "Anno": 8,
   "IncompatibleIds": null,
@@ -17,8 +17,8 @@
   },
 
   "ModName": {
-    "English": "Shrine Specialist Pack by Althandir / Altdolphin",
-    "German": "Schrein Spezialisten Pack von Althandir / Altdolphin",
+    "English": "Residenential Workforce Specialist Pack by Althandir / Altdolphin",
+    "German": "Wohnhaus - Arbeitskräfte Spezialisten Pack von Althandir / Altdolphin",
     "French": "[EN] Shrine Specialist Pack by Althandir / Altdolphin",
     "Italian": "[EN] Shrine Specialist Pack by Althandir / Altdolphin",
     "Polish": "[EN] Shrine Specialist Pack by Althandir / Altdolphin",
@@ -30,8 +30,8 @@
     "Russian": "[EN] Shrine Specialist Pack by Althandir / Altdolphin"
   },
   "Description": {
-    "English": "Adds new different Specialists focused on Shrines to Anno 117.",
-    "German": "Fügt neue verschiedene Spezialisten mit Fokus auf Schreine zu Anno 117 hinzu.",
+    "English": "Adds new different Specialists focused on workforces from residences to Anno 117.",
+    "German": "Fügt neue verschiedene Spezialisten mit Fokus auf Arbeitskräften aus Wohnhäusern zu Anno 117 hinzu.",
     "French": "[EN] Adds new different Specialists focused on Shrines to Anno 117.",
     "Italian": "[EN] Adds new different Specialists focused on Shrines to Anno 117.",
     "Polish": "[EN] Adds new different Specialists focused on Shrines to Anno 117.",
