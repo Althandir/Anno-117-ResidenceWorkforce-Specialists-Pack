@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000210</GUID>
             <Name>Specialist RC03ResidencesAdditionalWorkforceRC02-R</Name>
-            <IconFilename>data/base/graphics/icons/other/roman_male_RC03HostRC02.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/roman_male_RC03HostRC02.png</IconFilename>
             <InfoDescription>1600000211</InfoDescription>
           </Standard>
           <Effect>
@@ -28,7 +28,7 @@
           </Effect>
           <Item>
             <Niche>Diplomacy</Niche> 
-            <TradePrice>50000</TradePrice>
+            <TradePrice>30000</TradePrice>
             <BarkPool>80242</BarkPool> <!-- <GUID>80242</GUID> -->
             <Rarity>Rare</Rarity> 
           </Item>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000211</GUID>
                     <Name>Specialist RC03ResidencesAdditionalWorkforceRC02-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/roman_male_RC03HostRC02.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/roman_male_RC03HostRC02.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000210</OasisId>

@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000238</GUID>
             <Name>Specialist RC03C03ResidencesAdditionalWorkforceC01-L</Name>
-            <IconFilename>data/base/graphics/icons/other/celtic_female_RC03C03ResidencesAdditionalWorkforceC01-L.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/celtic_female_RC03C03ResidencesAdditionalWorkforceC01-L.png</IconFilename>
             <InfoDescription>1600000239</InfoDescription>
           </Standard>
           <Effect>
@@ -31,7 +31,7 @@
           </Effect>
           <Item>
             <Niche>Diplomacy</Niche> 
-            <TradePrice>650000</TradePrice>
+            <TradePrice>500000</TradePrice>
             <BarkPool>83336</BarkPool> <!-- <GUID>83336</GUID> -->
             <Rarity>Legendary</Rarity> 
           </Item>
@@ -56,7 +56,7 @@
                 <Standard>
                     <GUID>1600000239</GUID>
                     <Name>Specialist RC03C03ResidencesAdditionalWorkforceC01-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/celtic_female_RC03C03ResidencesAdditionalWorkforceC01-L.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/celtic_female_RC03C03ResidencesAdditionalWorkforceC01-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000238</OasisId>
