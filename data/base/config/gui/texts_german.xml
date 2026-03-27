@@ -10,7 +10,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Hat Hart für seinen Erfolg gearbeitet.</Text>
+          <Text>Hat Hart für seinen Erfolg gearbeitet. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000318</LineId> 
       </Text>
     </ModOp>
@@ -26,7 +26,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Hat immer eine Gruppe von Liberti für ihre luxuriösen Bedürfnisse nötig.</Text>
+          <Text>Hat immer eine Gruppe von Liberti für ihre luxuriösen Bedürfnisse nötig. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000125</LineId> 
       </Text>
     </ModOp>
@@ -42,7 +42,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Ist fasziniert von der harten Arbeit der einfachen Plebejer. Genießt das geschäftige Treiben und die handwerklichen Tätigkeiten.</Text>
+          <Text>Ist fasziniert von der harten Arbeit der einfachen Plebejer. Genießt das geschäftige Treiben und die handwerklichen Tätigkeiten. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000127</LineId> 
       </Text>
     </ModOp>
@@ -58,8 +58,13 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Ist sich bewusst, dass er ohne die Massen an Liberti ein Niemand wäre.</Text>
+          <Text>Ist sich bewusst, dass er ohne die Massen an Liberti ein Niemand wäre. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000157</LineId> 
+      </Text>
+      <!-- Boosted Description -->
+      <Text>
+          <Text>PlaceholderText (200x Patrizier Wohnhäuser auf Insel)</Text>
+          <LineId>1600000294</LineId> 
       </Text>
     </ModOp>
   </Group>
@@ -74,7 +79,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Die Jugend kann immer von den Älteren lernen.</Text>
+          <Text>Die Jugend kann immer von den Älteren lernen. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000191</LineId> 
       </Text>
     </ModOp>
@@ -90,7 +95,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Dank ihrer harten Arbeit ist sie bereit, in die nächste römische Gesellschaftsschicht aufzusteigen.</Text>
+          <Text>Dank ihrer harten Arbeit ist sie bereit, in die nächste römische Gesellschaftsschicht aufzusteigen. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000207</LineId> 
       </Text>
     </ModOp>
@@ -106,7 +111,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Reich, aber nicht reich genug, um als relevant zu gelten.</Text>
+          <Text>Reich, aber nicht reich genug, um als relevant zu gelten. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000209</LineId> 
       </Text>
     </ModOp>
@@ -122,7 +127,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Nicht so abgehoben wie andere Edelmänner.</Text>
+          <Text>Nicht so abgehoben wie andere Edelmänner. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000211</LineId> 
       </Text>
     </ModOp>
@@ -138,8 +143,13 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Schließt die kulturelle Kluft zwischen Römern und Kelten.</Text>
+          <Text>Schließt die kulturelle Kluft zwischen Römern und Kelten. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000239</LineId> 
+      </Text>
+      <!-- Boosted Description -->
+      <Text>
+          <Text>PlaceholderText (1x Ältestenhalle auf Insel)</Text>
+          <LineId>1600000295</LineId> 
       </Text>
     </ModOp>
   </Group>
@@ -154,7 +164,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Hat so viel zu handeln, dass sie immer die Gesellschaft von starken Männern braucht.</Text>
+          <Text>Hat so viel zu handeln, dass sie immer die Gesellschaft von starken Männern braucht. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000241</LineId> 
       </Text>
     </ModOp>
@@ -170,7 +180,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Er möchte seiner Liebsten Blumen bringen, findet aber nur Kräuter.</Text>
+          <Text>Er möchte seiner Liebsten Blumen bringen, findet aber nur Kräuter. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000243</LineId> 
       </Text>
     </ModOp>

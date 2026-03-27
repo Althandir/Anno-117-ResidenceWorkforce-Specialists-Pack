@@ -19,13 +19,6 @@
 -->
 <ModOps>
 
-<!-- Testing -->
-<Group>
-<!--
-<Include File="testing/pools-forceSpawnTesting.xml"/> 
--->
-</Group>
-
 <!-- Common Specialists -->
 <Include File="items-common/R02ResidencesAdditionalWorkforceR01-C.xml" />
 
@@ -48,7 +41,7 @@
 
 <!-- Add to Pools -->
 <Include File="pools/AssetList/AssetListPool.xml" />
-<Include File="pools/RewardPool/RewardPool-AllItems&Specialists.xml" />
+<Include File="pools/RewardPool/AllItems&Specialists.xml" />
 
 <!-- Add to Traderpools --> 
 <Include File="pools/Traders/pools-common.xml" />

@@ -10,7 +10,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Il a travaillé dur pour réussir.</Text>
+          <Text>Il a travaillé dur pour réussir. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000318</LineId> 
       </Text>
     </ModOp>
@@ -26,7 +26,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Toujours à la recherche d'un groupe de Liberti pour satisfaire ses besoins luxueux.</Text>
+          <Text>Toujours à la recherche d'un groupe de Liberti pour satisfaire ses besoins luxueux. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000125</LineId> 
       </Text>
     </ModOp>
@@ -42,7 +42,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Est fasciné par le travail acharné des plébéiens. Apprécie l'effervescence et les activités artisanales.</Text>
+          <Text>Est fasciné par le travail acharné des plébéiens. Apprécie l'effervescence et les activités artisanales. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000127</LineId> 
       </Text>
     </ModOp>
@@ -58,8 +58,13 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Il sait que sans Liberti, il ne serait rien.</Text>
+          <Text>Il sait que sans Liberti, il ne serait rien. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000157</LineId> 
+      </Text>
+      <!-- Boosted Description -->
+      <Text>
+          <Text>PlaceholderText (200x Patrician Residences on Island)</Text>
+          <LineId>1600000295</LineId> 
       </Text>
     </ModOp>
   </Group>
@@ -74,7 +79,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Les jeunes peuvent toujours apprendre des plus âgés.</Text>
+          <Text>Les jeunes peuvent toujours apprendre des plus âgés. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000191</LineId> 
       </Text>
     </ModOp>
@@ -90,7 +95,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Grâce à son travail acharné, elle est prête à passer au niveau supérieur.</Text>
+          <Text>Grâce à son travail acharné, elle est prête à passer au niveau supérieur. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000207</LineId> 
       </Text>
     </ModOp>
@@ -106,7 +111,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Riche, mais pas assez riche pour être considéré comme pertinent.</Text>
+          <Text>Riche, mais pas assez riche pour être considéré comme pertinent. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000209</LineId> 
       </Text>
     </ModOp>
@@ -122,7 +127,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Pas aussi distant que les autres nobles.</Text>
+          <Text>Pas aussi distant que les autres nobles. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000211</LineId> 
       </Text>
     </ModOp>
@@ -138,8 +143,13 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Comble le fossé culturel entre les Romains et les Celtes.</Text>
+          <Text>Comble le fossé culturel entre les Romains et les Celtes. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000239</LineId> 
+      </Text>
+      <!-- Boosted Description -->
+      <Text>
+          <Text>PlaceholderText (1x Alder Council on Island)</Text>
+          <LineId>1600000295</LineId> 
       </Text>
     </ModOp>
   </Group>
@@ -154,7 +164,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Elle a tellement à offrir qu'elle a toujours besoin d'être entourée d'hommes forts.</Text>
+          <Text>Elle a tellement à offrir qu'elle a toujours besoin d'être entourée d'hommes forts. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000241</LineId> 
       </Text>
     </ModOp>
@@ -170,7 +180,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Il veut offrir des fleurs à sa bien-aimée, mais ne trouve que des herbes.</Text>
+          <Text>Il veut offrir des fleurs à sa bien-aimée, mais ne trouve que des herbes. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000243</LineId> 
       </Text>
     </ModOp>
