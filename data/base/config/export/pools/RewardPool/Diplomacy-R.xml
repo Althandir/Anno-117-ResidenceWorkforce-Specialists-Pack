@@ -1,0 +1,27 @@
+<ModOps>
+<!-- Add to RewardPools -->
+<!-- RewardList Diplomacy Rare -->
+<Group>
+    <ModOp Type="add" GUID="121876" Path="/Values/RewardPool/ItemsPool">
+    <Item>
+        <ItemLink>1600000190</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000206</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000208</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000210</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000240</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000242</ItemLink>
+    </Item>
+    </ModOp>
+</Group>
+
+</ModOps>

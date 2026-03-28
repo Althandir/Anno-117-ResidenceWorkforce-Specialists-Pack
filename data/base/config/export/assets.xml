@@ -19,36 +19,33 @@
 -->
 <ModOps>
 
-<!-- Testing -->
-<Group>
-<!--
-<Include File="testing/pools-forceSpawnTesting.xml"/> 
--->
-</Group>
-
 <!-- Common Specialists -->
-<Include File="items-common/R02ResidencesAdditionalWorkforceR01-C.xml" />
+<Include File="items-common/R02Resi-AddWF-R01-C.xml" />
 
 <!-- Rare Specialists -->
-<Include File="items-rare/C02ResidencesAdditionalWorkforceC01-R.xml"/>
-<Include File="items-rare/C03ResidencesAdditionalWorkforceC02-R.xml"/>
+<Include File="items-rare/C02Resi-AddWF-C01-R.xml"/>
+<Include File="items-rare/C03Resi-AddWF-C02-R.xml"/>
 
-<Include File="items-rare/R03ResidencesAdditionalWorkforceR02-R.xml" />
-<Include File="items-rare/R04ResidencesAdditionalWorkforceR03-R.xml" />
-<Include File="items-rare/RC02ResidencesAdditionalWorkforceC01-R.xml" />
-<Include File="items-rare/RC03ResidencesAdditionalWorkforceRC02-R.xml" />
+<Include File="items-rare/R03Resi-AddWF-R02-R.xml" />
+<Include File="items-rare/R04Resi-AddWF-R03-R.xml" />
+<Include File="items-rare/RC02Resi-AddWF-C01-R.xml" />
+<Include File="items-rare/RC03Resi-AddWF-RC02-R.xml" />
 
 <!-- Epic Specialists -->
-<Include File="items-epic/R03ResidencesAdditionalWorkforceR01-E.xml" />
-<Include File="items-epic/R04ResidencesAdditionalWorkforceR02-E.xml" />
+<Include File="items-epic/R03Resi-AddWF-R01-E.xml" />
+<Include File="items-epic/R04Resi-AddWF-R02-E.xml" />
 
 <!-- Legendary Specialists -->
-<Include File="items-legendary/R04ResidencesAdditionalWorkforceR01-L.xml" />
-<Include File="items-legendary/RC03C03ResidencesAdditionalWorkforceC01-L.xml" />
+<Include File="items-legendary/R04Resi-AddWF-R01-L.xml" />
+<Include File="items-legendary/RC03C03Resi-AddWF-C01-L.xml" />
 
 <!-- Add to Pools -->
 <Include File="pools/AssetList/AssetListPool.xml" />
-<Include File="pools/RewardPool/RewardPool-AllItems&Specialists.xml" />
+<Include File="pools/RewardPool/AllItems&Specialists.xml" />
+<Include File="pools/RewardPool/Diplomacy-C.xml" />
+<Include File="pools/RewardPool/Diplomacy-R.xml" />
+<Include File="pools/RewardPool/Diplomacy-E.xml" />
+<Include File="pools/RewardPool/Diplomacy-L.xml" />
 
 <!-- Add to Traderpools --> 
 <Include File="pools/Traders/pools-common.xml" />

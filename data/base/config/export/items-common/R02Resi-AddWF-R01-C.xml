@@ -1,42 +1,42 @@
 <ModOps>
-<!-- Item Definition GUID:1600000156 - 1600000157 | LineID:1600000156 - 1600000157 -->
+<!-- Item Definition GUID:1600000317 - 1600000318 | LineID:1600000317 - 1600000318 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000156</GUID>
-            <Name>Specialist R04ResidencesAdditionalWorkforceR01-L</Name>
-            <IconFilename>data/base/graphics/icons/roman_male_R04HostR01.png</IconFilename>
-            <InfoDescription>1600000157</InfoDescription>
+            <GUID>1600000317</GUID>
+            <Name>Specialist R02Resi-AddWF-R01-C</Name>
+            <IconFilename>data/base/graphics/icons/r_m_R02HostR01-C.png</IconFilename>
+            <InfoDescription>1600000318</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000157</GUID>
+                <GUID>1600000318</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-					      <GUID>3145</GUID>
+					      <GUID>3141</GUID>
 				      </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
             <Niche>Diplomacy</Niche> 
-            <TradePrice>500000</TradePrice>
+            <TradePrice>10000</TradePrice>
             <BarkPool>80247</BarkPool> <!-- <GUID>80247</GUID> -->
-            <Rarity>Legendary</Rarity> 
+            <Rarity>Common</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000156</OasisId>
+            <OasisId>1600000317</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,34 +51,34 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000157</GUID>
-                    <Name>Specialist R04ResidencesAdditionalWorkforceR01-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/roman_male_R04HostR01.png</IconFilename>
+                    <GUID>1600000318</GUID>
+                    <Name>Specialist R02Resi-AddWF-R01-C BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/r_m_R02HostR01-C.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000156</OasisId>
+                    <OasisId>1600000317</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
                   <AdditionalAttributes>
                     <Happiness>
                       <AmountOrPercent>
-                        <Value>0</Value>
+                        <Value>-3</Value>
                         <Percental>0</Percental>
                       </AmountOrPercent>
                     </Happiness>
-                    <FireSafety>
-                      <AmountOrPercent>
-                        <Value>0</Value>
-                        <Percental>0</Percental>
-                      </AmountOrPercent>
-                    </FireSafety>
                     <Health>
                       <AmountOrPercent>
-                        <Value>0</Value>
+                        <Value>-3</Value>
                         <Percental>0</Percental>
                       </AmountOrPercent>
                     </Health>
+                    <FireSafety>
+                      <AmountOrPercent>
+                        <Value>-3</Value>
+                        <Percental>0</Percental>
+                      </AmountOrPercent>
+                    </FireSafety>
                   </AdditionalAttributes>
                   <WorkforceModifierInPercent>0</WorkforceModifierInPercent>
                   <AdditionalWorkforces>
