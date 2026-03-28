@@ -10,7 +10,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Worked hard for his success.</Text>
+          <Text>Worked hard for his success. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000318</LineId> 
       </Text>
     </ModOp>
@@ -26,7 +26,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Always in need of a group of Liberti for her luxurious needs.</Text>
+          <Text>Always in need of a group of Liberti for her luxurious needs. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000125</LineId> 
       </Text>
     </ModOp>
@@ -42,7 +42,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Is fascinated by the hard work of plebeians. Enjoys the bustling and artisanal activities.</Text>
+          <Text>Is fascinated by the hard work of plebeians. Enjoys the bustling and artisanal activities. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000127</LineId> 
       </Text>
     </ModOp>
@@ -58,8 +58,13 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Knows without a mass of Liberti, he would be nothing.</Text>
+          <Text>Knows without a mass of Liberti, he would be nothing. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000157</LineId> 
+      </Text>
+      <!-- Boosted Description -->
+      <Text>
+          <Text>Now needs a large number of additional sponsors. (200x Patrician Residences on Island)</Text>
+          <LineId>1600000294</LineId> 
       </Text>
     </ModOp>
   </Group>
@@ -74,7 +79,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>The youth can always learn from the elder ones.</Text>
+          <Text>The youth can always learn from the elder ones. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000191</LineId> 
       </Text>
     </ModOp>
@@ -90,7 +95,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Thanks to her hard work, she is ready to move up to the next roman stratum.</Text>
+          <Text>Thanks to her hard work, she is ready to move up to the next roman stratum. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000207</LineId> 
       </Text>
     </ModOp>
@@ -106,7 +111,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Rich, but not rich enough to be considered that relevant.</Text>
+          <Text>Rich, but not rich enough to be considered that relevant. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000209</LineId> 
       </Text>
     </ModOp>
@@ -122,7 +127,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Not as aloof as other nobles.</Text>
+          <Text>Not as aloof as other nobles. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000211</LineId> 
       </Text>
     </ModOp>
@@ -138,8 +143,13 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Closes the cultural gaps between Romans and Celts.</Text>
+          <Text>Closes the cultural gaps between Romans and Celts. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000239</LineId> 
+      </Text>
+      <!-- Boosted Description -->
+      <Text>
+          <Text>"I enjoy the modesty of the Alder Council." (1x Alder Council on Island)</Text>
+          <LineId>1600000295</LineId> 
       </Text>
     </ModOp>
   </Group>
@@ -154,7 +164,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Has so much to trade, always in need a company of strong man around.</Text>
+          <Text>Has so much to trade, always in need a company of strong man around. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000241</LineId> 
       </Text>
     </ModOp>
@@ -170,7 +180,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Wants to bring flowers to his love, but only finds herbs.</Text>
+          <Text>Wants to bring flowers to his love, but only finds herbs. &#xD;(ResidenceWorkforce-Pack)</Text>
           <LineId>1600000243</LineId> 
       </Text>
     </ModOp>
