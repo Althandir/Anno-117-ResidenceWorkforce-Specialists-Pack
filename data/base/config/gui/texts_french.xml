@@ -1,6 +1,6 @@
 <ModOps>
 
-  <!-- Specialist R02ResidencesAdditionalWorkforceR01-C -->
+  <!-- Specialist R02Resi-AddWF-R01-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -16,7 +16,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist R03ResidencesAdditionalWorkforceR01-E -->
+  <!-- Specialist R03Resi-AddWF-R01-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -32,7 +32,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist R04ResidencesAdditionalWorkforceR02-E -->
+  <!-- Specialist R04Resi-AddWF-R02-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -48,7 +48,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist R04ResidencesAdditionalWorkforceR01-L -->
+  <!-- Specialist R04Resi-AddWF-R01-L -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -69,7 +69,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist C03ResidencesAdditionalWorkforceC02-R -->
+  <!-- Specialist C03Resi-AddWF-C02-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -85,7 +85,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist R03ResidencesAdditionalWorkforceR02-R -->
+  <!-- Specialist R03Resi-AddWF-R02-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -101,7 +101,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist R04ResidencesAdditionalWorkforceR03-R -->
+  <!-- Specialist R04Resi-AddWF-R03-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -117,7 +117,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist RC03ResidencesAdditionalWorkforceRC02-R -->
+  <!-- Specialist RC03Resi-AddWF-RC02-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -133,7 +133,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist RC03C03ResidencesAdditionalWorkforceC01-L -->
+  <!-- Specialist RC03C03Resi-AddWF-C01-L -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -154,7 +154,7 @@
     </ModOp>
   </Group>
   
-  <!-- Specialist RC02ResidencesAdditionalWorkforceC01-R -->
+  <!-- Specialist RC02Resi-AddWF-C01-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -170,7 +170,7 @@
     </ModOp>
   </Group>
   
-  <!-- Specialist C02ResidencesAdditionalWorkforceC01-R -->
+  <!-- Specialist C02Resi-AddWF-C01-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->

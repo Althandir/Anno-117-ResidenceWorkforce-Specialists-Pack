@@ -1,42 +1,42 @@
 <ModOps>
-<!-- Item Definition GUID:1600000208 - 1600000209 | LineID:1600000208 - 1600000209 -->
+<!-- Item Definition GUID:1600000124 - 1600000125 | LineID:1600000124 - 1600000125 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000208</GUID>
-            <Name>Specialist R04ResidencesAdditionalWorkforceR03-R</Name>
-            <IconFilename>data/base/graphics/icons/unchanged/roman_male_R04HostR03.png</IconFilename>
-            <InfoDescription>1600000209</InfoDescription>
+            <GUID>1600000124</GUID>
+            <Name>Specialist R03Resi-AddWF-R01-E</Name>
+            <IconFilename>data/base/graphics/icons/r_f_R3HostR1-E.png</IconFilename>
+            <InfoDescription>1600000125</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000209</GUID>
+                <GUID>1600000125</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-					      <GUID>3145</GUID>
+					      <GUID>3142</GUID>
 				      </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
             <Niche>Diplomacy</Niche> 
-            <TradePrice>30000</TradePrice>
-            <BarkPool>80244</BarkPool> <!-- <GUID>80244</GUID> -->
-            <Rarity>Rare</Rarity> 
+            <TradePrice>75000</TradePrice>
+            <BarkPool>83336</BarkPool> <!-- <GUID>83336</GUID> -->
+            <Rarity>Epic</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000208</OasisId>
+            <OasisId>1600000124</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,12 +51,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000209</GUID>
-                    <Name>Specialist R04ResidencesAdditionalWorkforceR03-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/unchanged/roman_male_R04HostR03.png</IconFilename>
+                    <GUID>1600000125</GUID>
+                    <Name>Specialist R03Resi-AddWF-R01-E BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/r_f_R3HostR1-E.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000208</OasisId>
+                    <OasisId>1600000124</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
@@ -67,23 +67,23 @@
                         <Percental>0</Percental>
                       </AmountOrPercent>
                     </Happiness>
-                    <Health>
-                      <AmountOrPercent>
-                        <Value>-3</Value>
-                        <Percental>0</Percental>
-                      </AmountOrPercent>
-                    </Health>
                     <FireSafety>
                       <AmountOrPercent>
                         <Value>-3</Value>
                         <Percental>0</Percental>
                       </AmountOrPercent>
                     </FireSafety>
+                    <Health>
+                      <AmountOrPercent>
+                        <Value>-3</Value>
+                        <Percental>0</Percental>
+                      </AmountOrPercent>
+                    </Health>
                   </AdditionalAttributes>
                   <WorkforceModifierInPercent>0</WorkforceModifierInPercent>
                   <AdditionalWorkforces>
                     <Item>
-                      <WorkforceGUID>2185</WorkforceGUID>
+                      <WorkforceGUID>2181</WorkforceGUID>
                     </Item>
                   </AdditionalWorkforces>
                 </BuildingUpgrade>
@@ -98,7 +98,7 @@
                 <CityInstitutionUpgrade/>
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>
-                <AqueductUpgrade/> 
+                <AqueductUpgrade/>
                 <WarehouseUpgrade/>
                 <IrrigationUpgrade/>
             </Values>

@@ -1,62 +1,59 @@
 <ModOps>
-<!-- Item Definition GUID:1600000238 - 1600000239 + 1600000295 | LineID:1600000239 - 1600000239 + 1600000295 -->
+<!-- Item Definition GUID:1600000156 - 1600000157 + 1600000294 | LineID:1600000156 - 1600000157 + 1600000294 -->
 <Group>
     <ModOp Type="addNextSibling" GUID="106410">
-        <Asset>
-            <Template>ItemWithBoost</Template>
-            <Values>
-                <Standard>
-                    <GUID>1600000238</GUID>
-                    <Name>Specialist RC03C03ResidencesAdditionalWorkforceC01-L</Name>
-                    <IconFilename>data/base/graphics/icons/celtic_female_RC03C03ResidencesAdditionalWorkforceC01-L.png</IconFilename>
-                    <InfoDescription>1600000239</InfoDescription>
-                </Standard>
-                <Effect>
-                    <EffectScope>Radius</EffectScope> 
-                    <SourceCategory>Item</SourceCategory>
-                    <Buffs>
-                    <Item>
-                        <GUID>1600000239</GUID>
-                    </Item>
-                    </Buffs>
-                    <Targets> <!-- Targets of Buff -->
-                        <Item>
-                            <GUID>6514</GUID>
-                        </Item>
-                        <Item>
-                            <GUID>6472</GUID>
-                        </Item>
-                    </Targets>
-                    <HideInGovernorsBar>1</HideInGovernorsBar>
-                </Effect>
+    <Asset>
+        <Template>ItemWithBoost</Template>
+        <Values>
+            <Standard>
+                <GUID>1600000156</GUID>
+                <Name>Specialist R04Resi-AddWF-R01-L</Name>
+                <IconFilename>data/base/graphics/icons/r_m_R04HostR01-L.png</IconFilename>
+                <InfoDescription>1600000157</InfoDescription>
+            </Standard>
+            <Effect>
+                <EffectScope>Radius</EffectScope> 
+                <SourceCategory>Item</SourceCategory>
+                <Buffs>
                 <Item>
-                    <Niche>Diplomacy</Niche> 
-                    <TradePrice>500000</TradePrice>
-                    <BarkPool>83336</BarkPool> <!-- <GUID>83336</GUID> -->
-                    <Rarity>Legendary</Rarity> 
+                    <GUID>1600000157</GUID>
                 </Item>
-                <Locked>
-                    <DefaultLockedState>0</DefaultLockedState>
-                </Locked>
-                <Text>
-                    <OasisId>1600000238</OasisId>
-                </Text>
+                </Buffs>
+                <Targets> <!-- Targets of Buff -->
+                    <Item>
+                        <GUID>3145</GUID>
+                    </Item>
+                </Targets>
+                <HideInGovernorsBar>1</HideInGovernorsBar>
+            </Effect>
+            <Item>
+                <Niche>Diplomacy</Niche> 
+                <TradePrice>500000</TradePrice>
+                <BarkPool>80247</BarkPool> <!-- <GUID>80247</GUID> -->
+                <Rarity>Legendary</Rarity> 
+            </Item>
+            <Locked>
+                <DefaultLockedState>0</DefaultLockedState>
+            </Locked>
+            <Text>
+                <OasisId>1600000156</OasisId>
+            </Text>
 
             <ItemWithBoost>
                 <BoostCondition>
                 <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
                 <Values>
                 <PreConditionList>
-                    <!-- Condition - 1x Celtic Townhall on Island -->
+                    <!-- Condition - 200x Patrician Buildings -->
                     <Condition>
                         <Template>ConditionObjectCount</Template>
                         <Values>
                             <Condition/>
                             <ConditionObjectCount>
-                                <Amount>1</Amount>
+                                <Amount>200</Amount>
                             </ConditionObjectCount>
                             <ObjectFilter>
-                                <ObjectGUID>6726</ObjectGUID>
+                                <ObjectGUID>3145</ObjectGUID>
                                 <ObjectLocations>
                                     <Template>LocationFilter</Template>
                                     <Values>
@@ -82,14 +79,14 @@
                 </BoostCondition>
                 <BoostBuffs>
                 <Item>
-                    <GUID>1600000295</GUID>
+                    <GUID>1600000294</GUID>
                 </Item>
                 </BoostBuffs>
-                <BoostHint>1600000295</BoostHint>
+                <BoostHint>1600000294</BoostHint>
             </ItemWithBoost>
 
         </Values>
-      </Asset>
+    </Asset>
     </ModOp>
 </Group>
 
@@ -101,12 +98,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000239</GUID>
-                    <Name>Specialist RC03C03ResidencesAdditionalWorkforceC01-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/celtic_female_RC03C03ResidencesAdditionalWorkforceC01-L.png</IconFilename>
+                    <GUID>1600000157</GUID>
+                    <Name>Specialist R04Resi-AddWF-R01-L BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/r_m_R04HostR01-L.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000238</OasisId>
+                    <OasisId>1600000156</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
@@ -133,7 +130,7 @@
                   <WorkforceModifierInPercent>0</WorkforceModifierInPercent>
                   <AdditionalWorkforces>
                     <Item>
-                      <WorkforceGUID>2192</WorkforceGUID>
+                      <WorkforceGUID>2181</WorkforceGUID>
                     </Item>
                   </AdditionalWorkforces>
                 </BuildingUpgrade>
@@ -154,19 +151,19 @@
             </Values>
         </Asset>
     </ModOp>
-
+    
     <!-- Boosted BuildingEffect Definition -->
     <ModOp Type="addNextSibling" GUID="80193">
         <Asset>
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000295</GUID>
-                    <Name>Specialist RC03C03ResidencesAdditionalWorkforceC01-L Boosted BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/celtic_female_RC03C03ResidencesAdditionalWorkforceC01-L.png</IconFilename>
+                    <GUID>1600000294</GUID>
+                    <Name>Specialist R04Resi-AddWF-R01-L Boosted BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/r_m_R04HostR01-L.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000238</OasisId>
+                    <OasisId>1600000156</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
@@ -193,13 +190,13 @@
                   <WorkforceModifierInPercent>0</WorkforceModifierInPercent>
                   <AdditionalWorkforces>
                     <Item>
-                      <WorkforceGUID>2192</WorkforceGUID>
+                      <WorkforceGUID>2181</WorkforceGUID>
                     </Item>
                     <Item>
-                      <WorkforceGUID>2198</WorkforceGUID>
+                      <WorkforceGUID>2184</WorkforceGUID>
                     </Item>
                     <Item>
-                      <WorkforceGUID>2196</WorkforceGUID>
+                      <WorkforceGUID>2185</WorkforceGUID>
                     </Item>
                   </AdditionalWorkforces>
                 </BuildingUpgrade>
@@ -220,7 +217,6 @@
             </Values>
         </Asset>
     </ModOp>
-
 </Group>
 
 </ModOps>
