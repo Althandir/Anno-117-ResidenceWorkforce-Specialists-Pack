@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000210</GUID>
             <Name>Specialist RC03Resi-AddWF-RC02-R</Name>
-            <IconFilename>data/base/graphics/icons/r_m_RC03HostRC02-R.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/ResiWF-Pack/r_m_RC03HostRC02-R.png</IconFilename>
             <InfoDescription>1600000211</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000211</GUID>
                     <Name>Specialist RC03Resi-AddWF-RC02-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/r_m_RC03HostRC02-R.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/ResiWF-Pack/r_m_RC03HostRC02-R.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000210</OasisId>

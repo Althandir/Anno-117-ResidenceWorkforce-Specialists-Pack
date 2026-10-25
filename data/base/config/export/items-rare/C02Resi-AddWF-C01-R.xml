@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000242</GUID>
             <Name>Specialist C02Resi-AddWF-C01-R</Name>
-            <IconFilename>data/base/graphics/icons/c_m_C02HostC01-R.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/ResiWF-Pack/c_m_C02HostC01-R.png</IconFilename>
             <InfoDescription>1600000243</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000243</GUID>
                     <Name>Specialist C02Resi-AddWF-C01-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/c_m_C02HostC01-R.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/ResiWF-Pack/c_m_C02HostC01-R.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000242</OasisId>
