@@ -1,0 +1,45 @@
+<ModOps>
+<!-- 
+###
+#   Contains Specialists for DLC3 Regional Traders & Raider
+### 
+-->
+<!-- RewardPool DLC3 Traders & Raiders -->
+<!-- RewardPool Common -->
+<Group>
+    <ModOp Type="add" GUID="" Path="/Values/RewardPool/ItemsPool">
+ 
+    </ModOp>
+</Group>
+<!-- RewardPool Rare -->
+<Group>
+    <ModOp Type="add" GUID="" Path="/Values/RewardPool/ItemsPool">
+        <Item>
+            <ItemLink>1600001228</ItemLink>
+        </Item>  
+        <Item>
+            <ItemLink>1600001232</ItemLink>
+        </Item>  
+        <Item>
+            <ItemLink>1600001230</ItemLink>
+        </Item>  
+        <Item>
+            <ItemLink>1600001234</ItemLink>
+        </Item>  
+    </ModOp>
+</Group>
+<!-- RewardPool Epic -->
+<Group>
+    <ModOp Type="add" GUID="" Path="/Values/RewardPool/ItemsPool">
+
+    </ModOp>
+</Group>
+<!-- RewardPool Legendary -->
+<Group>
+    <ModOp Type="add" GUID="" Path="/Values/RewardPool/ItemsPool">
+        <Item>
+            <ItemLink>1600001225</ItemLink>
+        </Item>   
+    </ModOp>
+</Group>
+</ModOps>

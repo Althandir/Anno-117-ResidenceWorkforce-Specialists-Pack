@@ -26,10 +26,16 @@
 <Include File="items-rare/C02Resi-AddWF-C01-R.xml"/>
 <Include File="items-rare/C03Resi-AddWF-C02-R.xml"/>
 
+<Include File="items-rare/E02Resi-AddWF-E01-R.xml"/>
+<Include File="items-rare/E03Resi-AddWF-E02-R.xml"/>
+
 <Include File="items-rare/R03Resi-AddWF-R02-R.xml" />
 <Include File="items-rare/R04Resi-AddWF-R03-R.xml" />
 <Include File="items-rare/RC02Resi-AddWF-C01-R.xml" />
 <Include File="items-rare/RC03Resi-AddWF-RC02-R.xml" />
+
+<Include File="items-rare/RE02Resi-AddWF-E01-R.xml"/>
+<Include File="items-rare/RE03Resi-AddWF-RE02-R.xml"/>
 
 <!-- Epic Specialists -->
 <Include File="items-epic/R03Resi-AddWF-R01-E.xml" />
@@ -37,7 +43,10 @@
 
 <!-- Legendary Specialists -->
 <Include File="items-legendary/R04Resi-AddWF-R01-L.xml" />
+
 <Include File="items-legendary/RC03C03Resi-AddWF-C01-L.xml" />
+
+<Include File="items-legendary/RE03E03Resi-AddWF-E01-L.xml" />
 
 <!-- Add to Pools -->
 <Include File="pools/AssetList/AssetListPool.xml" />
@@ -52,6 +61,6 @@
 <Include File="pools/Traders/pools-rare.xml" />
 <Include File="pools/Traders/pools-epic.xml" />
 <Include File="pools/Traders/pools-legendary.xml" />
-
+<Include File="pools/Traders/dlc3/pools.xml" />
 
 </ModOps>

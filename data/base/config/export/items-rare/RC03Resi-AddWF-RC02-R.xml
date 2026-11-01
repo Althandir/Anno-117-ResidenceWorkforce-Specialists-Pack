@@ -1,5 +1,5 @@
 <ModOps>
-<!-- Item Definition GUID:1600000210 - 1600000211 | LineID:1600000210 - 1600000211 -->
+  <!-- Item Definition GUID:1600000210 - 1600000211 | LineID:1600000210 - 1600000211 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
@@ -12,7 +12,7 @@
             <InfoDescription>1600000211</InfoDescription>
           </Standard>
           <Effect>
-            <EffectScope>Radius</EffectScope> 
+            <EffectScope>Radius</EffectScope>
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
@@ -21,16 +21,16 @@
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-					      <GUID>6514</GUID>
-				      </Item>
+                <GUID>6514</GUID>
+              </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
-            <Niche>Diplomacy</Niche> 
+            <Niche>Diplomacy</Niche>
             <TradePrice><ModValue Insert="$TradePrice_Rare"/></TradePrice>
             <BarkPool>80242</BarkPool> <!-- <GUID>80242</GUID> -->
-            <Rarity>Rare</Rarity> 
+            <Rarity>Rare</Rarity>
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
@@ -47,64 +47,51 @@
   <Group>
     <!-- BuildingEffect Definition -->
     <ModOp Type="addNextSibling" GUID="80193">
-        <Asset>
-            <Template>BuildingBuff</Template>
-            <Values>
-                <Standard>
-                    <GUID>1600000211</GUID>
-                    <Name>Specialist RC03Resi-AddWF-RC02-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/ResiWF-Pack/r_m_RC03HostRC02-R.png</IconFilename>
-                </Standard>
-                <Text>
-                    <OasisId>1600000210</OasisId>
-                </Text>
-                <HealthUpgrade/>
-                <BuildingUpgrade>
-                  <AdditionalAttributes>
-                    <Happiness>
-                      <AmountOrPercent>
-                        <Value>-3</Value>
-                        <Percental>0</Percental>
-                      </AmountOrPercent>
-                    </Happiness>
-                    <Health>
-                      <AmountOrPercent>
-                        <Value>-3</Value>
-                        <Percental>0</Percental>
-                      </AmountOrPercent>
-                    </Health>
-                    <FireSafety>
-                      <AmountOrPercent>
-                        <Value>-3</Value>
-                        <Percental>0</Percental>
-                      </AmountOrPercent>
-                    </FireSafety>
-                  </AdditionalAttributes>
-                  <WorkforceModifierInPercent>0</WorkforceModifierInPercent>
-                  <AdditionalWorkforces>
-                    <Item>
-                      <WorkforceGUID>2198</WorkforceGUID>
-                    </Item>
-                  </AdditionalWorkforces>
-                </BuildingUpgrade>
-                <DistributionUpgrade/>
-                <Buff>
-                    <SourceCategory>Item</SourceCategory>
-                </Buff>
-                <ResidenceUpgrade/>
-                <FactoryUpgrade/>
-                <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
-            </Values>
-        </Asset>
+      <Asset>
+        <Template>BuildingBuff</Template>
+        <Values>
+          <Standard>
+            <GUID>1600000211</GUID>
+            <Name>Specialist RC03Resi-AddWF-RC02-R BuildingBuff</Name>
+            <IconFilename>data/base/graphics/icons/ResiWF-Pack/r_m_RC03HostRC02-R.png</IconFilename>
+          </Standard>
+          <Text>
+            <OasisId>1600000210</OasisId>
+          </Text>
+          <BuildingUpgrade>
+            <AdditionalAttributes>
+              <Happiness>
+                <AmountOrPercent>
+                  <Value><ModValue Insert="$Attributes_Rare"/></Value>
+                  <Percental>0</Percental>
+                </AmountOrPercent>
+              </Happiness>
+              <Health>
+                <AmountOrPercent>
+                  <Value><ModValue Insert="$Attributes_Rare"/></Value>
+                  <Percental>0</Percental>
+                </AmountOrPercent>
+              </Health>
+              <FireSafety>
+                <AmountOrPercent>
+                  <Value><ModValue Insert="$Attributes_Rare"/></Value>
+                  <Percental>0</Percental>
+                </AmountOrPercent>
+              </FireSafety>
+            </AdditionalAttributes>
+            <AdditionalWorkforces>
+              <Item>
+                <WorkforceGUID>2198</WorkforceGUID>
+              </Item>
+            </AdditionalWorkforces>
+          </BuildingUpgrade>
+          <Buff>
+            <SourceCategory>Item</SourceCategory>
+          </Buff>
+        </Values>
+      </Asset>
     </ModOp>
-    
+
   </Group>
 
 </ModOps>

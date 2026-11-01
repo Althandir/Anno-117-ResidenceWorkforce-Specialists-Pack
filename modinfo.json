@@ -81,7 +81,29 @@
     "TradePrice_Legendary":
     {
       "default": "750000"
+    },
+    "Attributes_Common":
+    {
+      "default": "-3"
+    },
+    "Attributes_Rare":
+    {
+      "default": "-3"
+    },
+    "Attributes_Epic":
+    {
+      "default": "-3"
+    },
+    "Attributes_Legendary":
+    {
+      "default": "-3"
+    },
+    "Attributes_Legendary_Boosted":
+    {
+      "default": "-4"
     }
+
+
   }
 
 }

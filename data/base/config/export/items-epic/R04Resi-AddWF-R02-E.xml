@@ -1,5 +1,5 @@
 <ModOps>
-<!-- Item Definition GUID:1600000126 - 1600000127 | LineID:1600000126 - 1600000127 -->
+  <!-- Item Definition GUID:1600000126 - 1600000127 | LineID:1600000126 - 1600000127 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
@@ -12,7 +12,7 @@
             <InfoDescription>1600000127</InfoDescription>
           </Standard>
           <Effect>
-            <EffectScope>Radius</EffectScope> 
+            <EffectScope>Radius</EffectScope>
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
@@ -21,16 +21,16 @@
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-					      <GUID>3145</GUID>
-				      </Item>
+                <GUID>3145</GUID>
+              </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
-            <Niche>Diplomacy</Niche> 
+            <Niche>Diplomacy</Niche>
             <TradePrice><ModValue Insert="$TradePrice_Epic"/></TradePrice>
             <BarkPool>83336</BarkPool> <!-- <GUID>83336</GUID> -->
-            <Rarity>Epic</Rarity> 
+            <Rarity>Epic</Rarity>
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
@@ -47,64 +47,51 @@
   <Group>
     <!-- BuildingEffect Definition -->
     <ModOp Type="addNextSibling" GUID="80193">
-        <Asset>
-            <Template>BuildingBuff</Template>
-            <Values>
-                <Standard>
-                    <GUID>1600000127</GUID>
-                    <Name>Specialist R04Resi-AddWF-R02-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/ResiWF-Pack/r_f_R4HostR2-E.png</IconFilename>
-                </Standard>
-                <Text>
-                    <OasisId>1600000126</OasisId>
-                </Text>
-                <HealthUpgrade/>
-                <BuildingUpgrade>
-                  <AdditionalAttributes>
-                    <Happiness>
-                      <AmountOrPercent>
-                        <Value>-3</Value>
-                        <Percental>0</Percental>
-                      </AmountOrPercent>
-                    </Happiness>
-                    <FireSafety>
-                      <AmountOrPercent>
-                        <Value>-3</Value>
-                        <Percental>0</Percental>
-                      </AmountOrPercent>
-                    </FireSafety>
-                    <Health>
-                      <AmountOrPercent>
-                        <Value>-3</Value>
-                        <Percental>0</Percental>
-                      </AmountOrPercent>
-                    </Health>
-                  </AdditionalAttributes>
-                  <WorkforceModifierInPercent>0</WorkforceModifierInPercent>
-                  <AdditionalWorkforces>
-                    <Item>
-                      <WorkforceGUID>2184</WorkforceGUID>
-                    </Item>
-                  </AdditionalWorkforces>
-                </BuildingUpgrade>
-                <DistributionUpgrade/>
-                <Buff>
-                    <SourceCategory>Item</SourceCategory>
-                </Buff>
-                <ResidenceUpgrade/>
-                <FactoryUpgrade/>
-                <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
-            </Values>
-        </Asset>
+      <Asset>
+        <Template>BuildingBuff</Template>
+        <Values>
+          <Standard>
+            <GUID>1600000127</GUID>
+            <Name>Specialist R04Resi-AddWF-R02-E BuildingBuff</Name>
+            <IconFilename>data/base/graphics/icons/ResiWF-Pack/r_f_R4HostR2-E.png</IconFilename>
+          </Standard>
+          <Text>
+            <OasisId>1600000126</OasisId>
+          </Text>
+          <BuildingUpgrade>
+            <AdditionalAttributes>
+              <Happiness>
+                <AmountOrPercent>
+                  <Value><ModValue Insert="$Attributes_Epic"/></Value>
+                  <Percental>0</Percental>
+                </AmountOrPercent>
+              </Happiness>
+              <FireSafety>
+                <AmountOrPercent>
+                  <Value><ModValue Insert="$Attributes_Epic"/></Value>
+                  <Percental>0</Percental>
+                </AmountOrPercent>
+              </FireSafety>
+              <Health>
+                <AmountOrPercent>
+                  <Value><ModValue Insert="$Attributes_Epic"/></Value>
+                  <Percental>0</Percental>
+                </AmountOrPercent>
+              </Health>
+            </AdditionalAttributes>
+            <AdditionalWorkforces>
+              <Item>
+                <WorkforceGUID>2184</WorkforceGUID>
+              </Item>
+            </AdditionalWorkforces>
+          </BuildingUpgrade>
+          <Buff>
+            <SourceCategory>Item</SourceCategory>
+          </Buff>
+        </Values>
+      </Asset>
     </ModOp>
-    
+
   </Group>
 
 </ModOps>
