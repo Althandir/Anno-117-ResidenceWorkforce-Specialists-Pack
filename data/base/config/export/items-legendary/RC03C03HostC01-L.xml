@@ -1,25 +1,25 @@
 <ModOps>
-  <!-- Item Definition GUID:1600001225 - 1600001226 + 1600001227 | LineID:1600001226 - 1600001226 + 1600001227 -->
+  <!-- Item Definition GUID:1600000238 - 1600000239 + 1600000295 | LineID:1600000239 - 1600000239 + 1600000295 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>ItemWithBoost</Template>
         <Values>
           <Standard>
-            <GUID>1600001225</GUID>
-            <Name>Specialist RE03E03Resi-AddWF-E01-L</Name>
-            <IconFilename>data/base/graphics/icons/ResiWF-Pack/_Placeholder.png</IconFilename>
-            <InfoDescription>1600001226</InfoDescription>
+            <GUID>1600000238</GUID>
+            <Name>Specialist RC03C03HostC01-L</Name>
+            <IconFilename>data/base/graphics/icons/ResiWF-Pack/RC03C03HostC01-L.png</IconFilename>
+            <InfoDescription>1600000239</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600001226</GUID>
+                <GUID>1600000239</GUID>
               </Item>
             </Buffs>
-            <Targets> <!-- Targets of Buff TODO: DLC3 -->
+            <Targets> <!-- Targets of Buff -->
               <Item>
                 <GUID>6514</GUID>
               </Item>
@@ -32,14 +32,14 @@
           <Item>
             <Niche>Diplomacy</Niche>
             <TradePrice><ModValue Insert="$TradePrice_Legendary"/></TradePrice>
-            <BarkPool>0</BarkPool> <!-- <GUID>0</GUID> -->
+            <BarkPool>83336</BarkPool> <!-- <GUID>83336</GUID> -->
             <Rarity>Legendary</Rarity>
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600001225</OasisId>
+            <OasisId>1600000238</OasisId>
           </Text>
 
           <ItemWithBoost>
@@ -47,7 +47,7 @@
               <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
               <Values>
                 <PreConditionList>
-                  <!-- Condition - 1x Observatory on Island -->
+                  <!-- Condition - 1x Celtic Townhall on Island -->
                   <Condition>
                     <Template>ConditionObjectCount</Template>
                     <Values>
@@ -82,10 +82,10 @@
             </BoostCondition>
             <BoostBuffs>
               <Item>
-                <GUID>1600001227</GUID>
+                <GUID>1600000295</GUID>
               </Item>
             </BoostBuffs>
-            <BoostHint>1600001227</BoostHint>
+            <BoostHint>1600000295</BoostHint>
           </ItemWithBoost>
 
         </Values>
@@ -101,12 +101,12 @@
         <Template>BuildingBuff</Template>
         <Values>
           <Standard>
-            <GUID>1600001226</GUID>
-            <Name>Specialist RE03E03Resi-AddWF-E01-L BuildingBuff</Name>
-            <IconFilename>data/base/graphics/icons/ResiWF-Pack/_Placeholder.png</IconFilename>
+            <GUID>1600000239</GUID>
+            <Name>Specialist RC03C03HostC01-L BuildingBuff</Name>
+            <IconFilename>data/base/graphics/icons/ResiWF-Pack/RC03C03HostC01-L.png</IconFilename>
           </Standard>
           <Text>
-            <OasisId>1600001225</OasisId>
+            <OasisId>1600000238</OasisId>
           </Text>
           <BuildingUpgrade>
             <AdditionalAttributes>
@@ -148,12 +148,12 @@
         <Template>BuildingBuff</Template>
         <Values>
           <Standard>
-            <GUID>1600001227</GUID>
-            <Name>Specialist RE03E03Resi-AddWF-E01-L Boosted BuildingBuff</Name>
-            <IconFilename>data/base/graphics/icons/ResiWF-Pack/_Placeholder.png</IconFilename>
+            <GUID>1600000295</GUID>
+            <Name>Specialist RC03C03HostC01-L Boosted BuildingBuff</Name>
+            <IconFilename>data/base/graphics/icons/ResiWF-Pack/RC03C03HostC01-L.png</IconFilename>
           </Standard>
           <Text>
-            <OasisId>1600001225</OasisId>
+            <OasisId>1600000238</OasisId>
           </Text>
           <BuildingUpgrade>
             <AdditionalAttributes>

@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>1600001234</GUID>
-            <Name>Specialist RE03Resi-AddWF-RE02-R</Name>
+            <Name>Specialist RE03HostRE02-R</Name>
             <IconFilename>data/base/graphics/icons/ResiWF-Pack/_Placeholder.png</IconFilename>
             <InfoDescription>1600001235</InfoDescription>
           </Standard>
@@ -52,7 +52,7 @@
         <Values>
           <Standard>
             <GUID>1600001235</GUID>
-            <Name>Specialist RE03Resi-AddWF-RE02-R BuildingBuff</Name>
+            <Name>Specialist RE03HostRE02-R BuildingBuff</Name>
             <IconFilename>data/base/graphics/icons/ResiWF-Pack/_Placeholder.png</IconFilename>
           </Standard>
           <Text>

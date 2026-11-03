@@ -1,42 +1,42 @@
 <ModOps>
-  <!-- Item Definition GUID:1600000317 - 1600000318 | LineID:1600000317 - 1600000318 -->
+  <!-- Item Definition GUID:1600000124 - 1600000125 | LineID:1600000124 - 1600000125 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000317</GUID>
-            <Name>Specialist R02Resi-AddWF-R01-C</Name>
-            <IconFilename>data/base/graphics/icons/ResiWF-Pack/r_m_R02HostR01-C.png</IconFilename>
-            <InfoDescription>1600000318</InfoDescription>
+            <GUID>1600000124</GUID>
+            <Name>Specialist R03HostR01-E</Name>
+            <IconFilename>data/base/graphics/icons/ResiWF-Pack/R3HostR1-E.png</IconFilename>
+            <InfoDescription>1600000125</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000318</GUID>
+                <GUID>1600000125</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>3141</GUID>
+                <GUID>3142</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
             <Niche>Diplomacy</Niche>
-            <TradePrice><ModValue Insert="$TradePrice_Common"/></TradePrice>
-            <BarkPool>80247</BarkPool> <!-- <GUID>80247</GUID> -->
-            <Rarity>Common</Rarity>
+            <TradePrice><ModValue Insert="$TradePrice_Epic"/></TradePrice>
+            <BarkPool>83336</BarkPool> <!-- <GUID>83336</GUID> -->
+            <Rarity>Epic</Rarity>
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000317</OasisId>
+            <OasisId>1600000124</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,33 +51,33 @@
         <Template>BuildingBuff</Template>
         <Values>
           <Standard>
-            <GUID>1600000318</GUID>
-            <Name>Specialist R02Resi-AddWF-R01-C BuildingBuff</Name>
-            <IconFilename>data/base/graphics/icons/ResiWF-Pack/r_m_R02HostR01-C.png</IconFilename>
+            <GUID>1600000125</GUID>
+            <Name>Specialist R03HostR01-E BuildingBuff</Name>
+            <IconFilename>data/base/graphics/icons/ResiWF-Pack/R3HostR1-E.png</IconFilename>
           </Standard>
           <Text>
-            <OasisId>1600000317</OasisId>
+            <OasisId>1600000124</OasisId>
           </Text>
           <BuildingUpgrade>
             <AdditionalAttributes>
               <Happiness>
                 <AmountOrPercent>
-                  <Value><ModValue Insert="$Attributes_Common"/></Value>
+                  <Value><ModValue Insert="$Attributes_Epic"/></Value>
                   <Percental>0</Percental>
                 </AmountOrPercent>
               </Happiness>
-              <Health>
-                <AmountOrPercent>
-                  <Value><ModValue Insert="$Attributes_Common"/></Value>
-                  <Percental>0</Percental>
-                </AmountOrPercent>
-              </Health>
               <FireSafety>
                 <AmountOrPercent>
-                  <Value><ModValue Insert="$Attributes_Common"/></Value>
+                  <Value><ModValue Insert="$Attributes_Epic"/></Value>
                   <Percental>0</Percental>
                 </AmountOrPercent>
               </FireSafety>
+              <Health>
+                <AmountOrPercent>
+                  <Value><ModValue Insert="$Attributes_Epic"/></Value>
+                  <Percental>0</Percental>
+                </AmountOrPercent>
+              </Health>
             </AdditionalAttributes>
             <AdditionalWorkforces>
               <Item>

@@ -3,50 +3,37 @@
 # NOTE: 
 # GUIDs might be all over the place (not outside of my Range but inside this mod) due to my experiments all the time
 # or my stupid brain getting new Ideas all the time and never finishing something >~<
-
-###  
-#   GUID-Ranges:  
-#   1600000317 - 1600000318 
-#   1600000124 - 1600000127
-#   1600000156 - 1600000157
-#   1600000190 - 1600000191
-#   1600000238 - 1600000243
-#   1600000206 - 1600000211
-#   
-#
-#
-###
 -->
 <ModOps>
 
 <!-- Common Specialists -->
-<Include File="items-common/R02Resi-AddWF-R01-C.xml" />
+<Include File="items-common/R02HostR01-C.xml" />
 
 <!-- Rare Specialists -->
-<Include File="items-rare/C02Resi-AddWF-C01-R.xml"/>
-<Include File="items-rare/C03Resi-AddWF-C02-R.xml"/>
+<Include File="items-rare/C02HostC01-R.xml"/>
+<Include File="items-rare/C03HostC02-R.xml"/>
 
-<Include File="items-rare/E02Resi-AddWF-E01-R.xml"/>
-<Include File="items-rare/E03Resi-AddWF-E02-R.xml"/>
+<Include File="items-rare/E02HostE01-R.xml"/>
+<Include File="items-rare/E03HostE02-R.xml"/>
 
-<Include File="items-rare/R03Resi-AddWF-R02-R.xml" />
-<Include File="items-rare/R04Resi-AddWF-R03-R.xml" />
-<Include File="items-rare/RC02Resi-AddWF-C01-R.xml" />
-<Include File="items-rare/RC03Resi-AddWF-RC02-R.xml" />
+<Include File="items-rare/R03HostR02-R.xml" />
+<Include File="items-rare/R04HostR03-R.xml" />
+<Include File="items-rare/RC02HostC01-R.xml" />
+<Include File="items-rare/RC03HostRC02-R.xml" />
 
-<Include File="items-rare/RE02Resi-AddWF-E01-R.xml"/>
-<Include File="items-rare/RE03Resi-AddWF-RE02-R.xml"/>
+<Include File="items-rare/RE02HostE01-R.xml"/>
+<Include File="items-rare/RE03HostRE02-R.xml"/>
 
 <!-- Epic Specialists -->
-<Include File="items-epic/R03Resi-AddWF-R01-E.xml" />
-<Include File="items-epic/R04Resi-AddWF-R02-E.xml" />
+<Include File="items-epic/R03HostR01-E.xml" />
+<Include File="items-epic/R04HostR02-E.xml" />
 
 <!-- Legendary Specialists -->
-<Include File="items-legendary/R04Resi-AddWF-R01-L.xml" />
+<Include File="items-legendary/R04HostR01-L.xml" />
 
-<Include File="items-legendary/RC03C03Resi-AddWF-C01-L.xml" />
+<Include File="items-legendary/RC03C03HostC01-L.xml" />
 
-<Include File="items-legendary/RE03E03Resi-AddWF-E01-L.xml" />
+<Include File="items-legendary/RE03E03HostE01-L.xml" />
 
 <!-- Add to Pools -->
 <Include File="pools/AssetList/AssetListPool.xml" />

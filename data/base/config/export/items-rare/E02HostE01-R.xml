@@ -1,27 +1,27 @@
 <ModOps>
-  <!-- Item Definition GUID:1600000240 - 1600000241 | LineID:1600000240 - 1600000241 -->
+  <!-- Item Definition GUID:1600001228 - 1600001229 | LineID:1600001228 - 1600001229 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000240</GUID>
-            <Name>Specialist RC02Resi-AddWF-C01-R</Name>
-            <IconFilename>data/base/graphics/icons/ResiWF-Pack/c_f_RC02HostC01-R.png</IconFilename>
-            <InfoDescription>1600000241</InfoDescription>
+            <GUID>1600001228</GUID>
+            <Name>Specialist E02HostE01-R</Name>
+            <IconFilename>data/base/graphics/icons/ResiWF-Pack/_Placeholder.png</IconFilename>
+            <InfoDescription>1600001229</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000241</GUID>
+                <GUID>1600001229</GUID>
               </Item>
             </Buffs>
-            <Targets> <!-- Targets of Buff -->
+            <Targets> <!-- Targets of Buff TODO: DLC3 -->
               <Item>
-                <GUID>6475</GUID>
+                <GUID>6471</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000240</OasisId>
+            <OasisId>1600001228</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,12 +51,12 @@
         <Template>BuildingBuff</Template>
         <Values>
           <Standard>
-            <GUID>1600000241</GUID>
-            <Name>Specialist RC02Resi-AddWF-C01-R BuildingBuff</Name>
-            <IconFilename>data/base/graphics/icons/ResiWF-Pack/c_f_RC02HostC01-R.png</IconFilename>
+            <GUID>1600001229</GUID>
+            <Name>Specialist E02HostE01-R BuildingBuff</Name>
+            <IconFilename>data/base/graphics/icons/ResiWF-Pack/_Placeholder.png</IconFilename>
           </Standard>
           <Text>
-            <OasisId>1600000240</OasisId>
+            <OasisId>1600001228</OasisId>
           </Text>
           <BuildingUpgrade>
             <AdditionalAttributes>
@@ -95,3 +95,4 @@
   </Group>
 
 </ModOps>
+
