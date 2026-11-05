@@ -21,10 +21,10 @@
             </Buffs>
             <Targets> <!-- Targets of Buff TODO: DLC3 -->
               <Item>
-                <GUID>6514</GUID>
+                <GUID>150585</GUID>
               </Item>
               <Item>
-                <GUID>6472</GUID>
+                <GUID>150587</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
@@ -131,7 +131,7 @@
             </AdditionalAttributes>
             <AdditionalWorkforces>
               <Item>
-                <WorkforceGUID>2192</WorkforceGUID>
+                <WorkforceGUID>149685</WorkforceGUID>
               </Item>
             </AdditionalWorkforces>
           </BuildingUpgrade>
@@ -178,13 +178,13 @@
             </AdditionalAttributes>
             <AdditionalWorkforces>
               <Item>
-                <WorkforceGUID>2192</WorkforceGUID>
+                <WorkforceGUID>149685</WorkforceGUID>
               </Item>
               <Item>
-                <WorkforceGUID>2198</WorkforceGUID>
+                <WorkforceGUID>150543</WorkforceGUID>
               </Item>
               <Item>
-                <WorkforceGUID>2196</WorkforceGUID>
+                <WorkforceGUID>150545</WorkforceGUID>
               </Item>
             </AdditionalWorkforces>
           </BuildingUpgrade>
