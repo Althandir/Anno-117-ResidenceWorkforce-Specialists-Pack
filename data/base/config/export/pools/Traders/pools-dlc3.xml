@@ -4,7 +4,7 @@
 #   Contains Specialists for DLC3 Regional Traders & Raider
 ### 
   -->
-  <!-- RewardPool DLC3 Traders & Raiders | Order is Heron, Valeria -->
+  <!-- RewardPool DLC3 Traders & Raiders | Order is Heron, Valeria, Raider -->
   <!-- RewardPool Common -->
   <ModOp Type="add" GUID="174421,174398,174406" Path="/Values/RewardPool/ItemsPool">
 
