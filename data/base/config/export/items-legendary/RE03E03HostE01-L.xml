@@ -1,5 +1,5 @@
 <ModOps>
-  <!-- Item Definition GUID:1600001225 - 1600001226 + 1600001227 | LineID:1600001226 - 1600001226 + 1600001227 -->
+  <!-- Item Definition GUID:1600001225 - 1600001226 + 1600001227 | LineID:1600001225 - 1600001226 + 1600001227 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
@@ -56,7 +56,7 @@
                         <Amount>1</Amount>
                       </ConditionObjectCount>
                       <ObjectFilter>
-                        <ObjectGUID>6726</ObjectGUID>
+                        <ObjectGUID>152069</ObjectGUID>
                         <ObjectLocations>
                           <Template>LocationFilter</Template>
                           <Values>
