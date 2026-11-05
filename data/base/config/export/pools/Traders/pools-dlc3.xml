@@ -7,13 +7,13 @@
 <!-- RewardPool DLC3 Traders & Raiders | Order is Heron, Valeria -->
 <!-- RewardPool Common -->
 <Group>
-    <ModOp Type="add" GUID="174421,174398" Path="/Values/RewardPool/ItemsPool">
+    <ModOp Type="add" GUID="174421,174398,174406" Path="/Values/RewardPool/ItemsPool">
  
     </ModOp>
 </Group>
 <!-- RewardPool Rare -->
 <Group>
-    <ModOp Type="add" GUID="174422,174399" Path="/Values/RewardPool/ItemsPool">
+    <ModOp Type="add" GUID="174422,174399,174407" Path="/Values/RewardPool/ItemsPool">
         <Item>
             <ItemLink>1600001228</ItemLink>
         </Item>  
@@ -30,13 +30,13 @@
 </Group>
 <!-- RewardPool Epic -->
 <Group>
-    <ModOp Type="add" GUID="174423,174400" Path="/Values/RewardPool/ItemsPool">
+    <ModOp Type="add" GUID="174423,174400,174408" Path="/Values/RewardPool/ItemsPool">
 
     </ModOp>
 </Group>
 <!-- RewardPool Legendary -->
 <Group>
-    <ModOp Type="add" GUID="174424,174401" Path="/Values/RewardPool/ItemsPool">
+    <ModOp Type="add" GUID="174424,174401,174409" Path="/Values/RewardPool/ItemsPool">
         <Item>
             <ItemLink>1600001225</ItemLink>
         </Item>   

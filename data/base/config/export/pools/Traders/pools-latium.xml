@@ -30,16 +30,15 @@
       <ItemLink>1600000126</ItemLink>
     </Item>
   </ModOp>
-  
+
   <!-- RewardPool Legendary Traders -->
-  <Group>
-    <ModOp Type="add" GUID="83463,83467,83471" Path="/Values/RewardPool/ItemsPool">
-      <Item>
-        <ItemLink>1600000156</ItemLink>
-      </Item>
-    </ModOp>
-  </Group>
+  <ModOp Type="add" GUID="83463,83467,83471" Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>1600000156</ItemLink>
+    </Item>
+  </ModOp>
 </ModOps>
+
 
 
 
