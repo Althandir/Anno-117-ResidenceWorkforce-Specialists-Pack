@@ -19,7 +19,7 @@
                 <GUID>1600001226</GUID>
               </Item>
             </Buffs>
-            <Targets> <!-- Targets of Buff TODO: DLC3 -->
+            <Targets> <!-- Targets of Buff -->
               <Item>
                 <GUID>150585</GUID>
               </Item>
