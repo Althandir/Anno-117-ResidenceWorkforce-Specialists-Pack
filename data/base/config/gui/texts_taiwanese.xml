@@ -191,7 +191,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-        <Text>Placeholder, Stargazing Culturebuilder</Text>
+        <Text>Thermuthis Synallaxis, Star-guided Connector</Text>
         <LineId>1600001225</LineId> <!-- <GUID>1600001225</GUID> -->
       </Text>
       <!-- Description -->
@@ -201,7 +201,7 @@
       </Text>
       <!-- Boosted Description -->
       <Text>
-        <Text>"Let me, observe them." &#xD;(1x Observatory on Island)</Text>
+        <Text>"Let me observe the stars." &#xD;(1x Observatory on Island)</Text>
         <LineId>1600001227</LineId>
       </Text>
     </ModOp>
