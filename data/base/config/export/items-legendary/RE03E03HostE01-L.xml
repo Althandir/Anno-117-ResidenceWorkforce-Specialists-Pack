@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600001225</GUID>
             <Name>Specialist RE03E03HostE01-L</Name>
-            <IconFilename>data/base/graphics/icons/ResiWF-Pack/_Placeholder.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/ResiWF-Pack/RE03E03HostE01-L.png</IconFilename>
             <InfoDescription>1600001226</InfoDescription>
           </Standard>
           <Effect>
@@ -32,6 +32,7 @@
           <Item>
             <Niche>Diplomacy</Niche>
             <TradePrice><ModValue Insert="$TradePrice_Legendary"/></TradePrice>
+            <Origin>DLC03</Origin>
             <BarkPool>0</BarkPool> <!-- <GUID>0</GUID> -->
             <Rarity>Legendary</Rarity>
           </Item>
@@ -103,7 +104,7 @@
           <Standard>
             <GUID>1600001226</GUID>
             <Name>Specialist RE03E03HostE01-L BuildingBuff</Name>
-            <IconFilename>data/base/graphics/icons/ResiWF-Pack/_Placeholder.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/ResiWF-Pack/RE03E03HostE01-L.png</IconFilename>
           </Standard>
           <Text>
             <OasisId>1600001225</OasisId>
@@ -150,7 +151,7 @@
           <Standard>
             <GUID>1600001227</GUID>
             <Name>Specialist RE03E03HostE01-L Boosted BuildingBuff</Name>
-            <IconFilename>data/base/graphics/icons/ResiWF-Pack/_Placeholder.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/ResiWF-Pack/RE03E03HostE01-L.png</IconFilename>
           </Standard>
           <Text>
             <OasisId>1600001225</OasisId>
@@ -198,3 +199,4 @@
   </Group>
 
 </ModOps>
+
