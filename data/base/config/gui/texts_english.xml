@@ -260,12 +260,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-        <Text>PLACEHOLDER RE03HostRE02-R</Text>
+        <Text>Personal Scribe</Text>
         <LineId>1600001234</LineId> <!-- <GUID>1600001234</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-        <Text>PLACEHOLDER &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
+        <Text>"I am here to write the story of... uhm... who was it again?" &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
         <LineId>1600001235</LineId>
       </Text>
     </ModOp>
