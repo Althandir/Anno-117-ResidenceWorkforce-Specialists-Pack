@@ -5,13 +5,13 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Prometteur Liberti</Text>
-          <LineId>1600000317</LineId> <!-- <GUID>1600000317</GUID> -->
+        <Text>Promising Liberti</Text>
+        <LineId>1600000317</LineId> <!-- <GUID>1600000317</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Il a travaillé dur pour réussir. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
-          <LineId>1600000318</LineId> 
+        <Text>Worked hard for his success. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
+        <LineId>1600000318</LineId>
       </Text>
     </ModOp>
   </Group>
@@ -21,13 +21,13 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Domitia Regilla, toujours accompagnée</Text>
-          <LineId>1600000124</LineId> <!-- <GUID>1600000124</GUID> -->
+        <Text>Domitia Regilla, Always Accompanied</Text>
+        <LineId>1600000124</LineId> <!-- <GUID>1600000124</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Toujours à la recherche d'un groupe de Liberti pour satisfaire ses besoins luxueux. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
-          <LineId>1600000125</LineId> 
+        <Text>Always in need of a group of Liberti for her luxurious needs. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
+        <LineId>1600000125</LineId>
       </Text>
     </ModOp>
   </Group>
@@ -37,13 +37,13 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Cornelia Operosa, la fascinée</Text>
-          <LineId>1600000126</LineId> <!-- <GUID>1600000126</GUID> -->
+        <Text>Cornelia Operosa, the Fascinated One</Text>
+        <LineId>1600000126</LineId> <!-- <GUID>1600000126</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Est fasciné par le travail acharné des plébéiens. Apprécie l'effervescence et les activités artisanales. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
-          <LineId>1600000127</LineId> 
+        <Text>Is fascinated by the hard work of plebeians. Enjoys the bustling and artisanal activities. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
+        <LineId>1600000127</LineId>
       </Text>
     </ModOp>
   </Group>
@@ -53,18 +53,18 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Marcus Pius, patron loyal et réfléchi</Text>
-          <LineId>1600000156</LineId> <!-- <GUID>1600000156</GUID> -->
+        <Text>Marcus Pius, Fair and Thoughtful Patronus</Text>
+        <LineId>1600000156</LineId> <!-- <GUID>1600000156</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Il sait que sans Liberti, il ne serait rien. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
-          <LineId>1600000157</LineId> 
+        <Text>Knows without a mass of Liberti, he would be nothing. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
+        <LineId>1600000157</LineId>
       </Text>
       <!-- Boosted Description -->
       <Text>
-          <Text>Now needs a large number of additional sponsors. (200x Patrician Residences on Island)</Text>
-          <LineId>1600000294</LineId> 
+        <Text>Now needs a large number of additional sponsors. (200x Patrician Residences on Island)</Text>
+        <LineId>1600000294</LineId>
       </Text>
     </ModOp>
   </Group>
@@ -74,13 +74,13 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Smith à la retraite</Text>
-          <LineId>1600000190</LineId> <!-- <GUID>1600000190</GUID> -->
+        <Text>Retired Smith</Text>
+        <LineId>1600000190</LineId> <!-- <GUID>1600000190</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Les jeunes peuvent toujours apprendre des plus âgés. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
-          <LineId>1600000191</LineId> 
+        <Text>The youth can always learn from the elder ones. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
+        <LineId>1600000191</LineId>
       </Text>
     </ModOp>
   </Group>
@@ -90,13 +90,13 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Aspirant plébéien</Text>
-          <LineId>1600000206</LineId> <!-- <GUID>1600000206</GUID> -->
+        <Text>Aspiring Plebeian</Text>
+        <LineId>1600000206</LineId> <!-- <GUID>1600000206</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Grâce à son travail acharné, elle est prête à passer au niveau supérieur. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
-          <LineId>1600000207</LineId> 
+        <Text>Thanks to her hard work, she is ready to move up to the next roman stratum. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
+        <LineId>1600000207</LineId>
       </Text>
     </ModOp>
   </Group>
@@ -106,13 +106,13 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Aspirants Equites</Text>
-          <LineId>1600000208</LineId> <!-- <GUID>1600000208</GUID> -->
+        <Text>Aspiring Equites</Text>
+        <LineId>1600000208</LineId> <!-- <GUID>1600000208</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Riche, mais pas assez riche pour être considéré comme pertinent. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
-          <LineId>1600000209</LineId> 
+        <Text>Rich, but not rich enough to be considered that relevant. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
+        <LineId>1600000209</LineId>
       </Text>
     </ModOp>
   </Group>
@@ -122,13 +122,13 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Noble terre-à-terre</Text>
-          <LineId>1600000210</LineId> <!-- <GUID>1600000210</GUID> -->
+        <Text>Grounded Nobleman</Text>
+        <LineId>1600000210</LineId> <!-- <GUID>1600000210</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Pas aussi distant que les autres nobles. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
-          <LineId>1600000211</LineId> 
+        <Text>Not as aloof as other nobles. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
+        <LineId>1600000211</LineId>
       </Text>
     </ModOp>
   </Group>
@@ -138,50 +138,135 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Lucia Domitius Catavignus, envoyé romano-celtique</Text>
-          <LineId>1600000238</LineId> <!-- <GUID>1600000238</GUID> -->
+        <Text>Lucia Domitius Catavignus, Romano-Celtic Envoy</Text>
+        <LineId>1600000238</LineId> <!-- <GUID>1600000238</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Comble le fossé culturel entre les Romains et les Celtes. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
-          <LineId>1600000239</LineId> 
+        <Text>Closes the cultural gaps between Romans and Celts. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
+        <LineId>1600000239</LineId>
       </Text>
       <!-- Boosted Description -->
       <Text>
-          <Text>"I enjoy the modesty of the Alder Council." (1x Alder Council on Island)</Text>
-          <LineId>1600000295</LineId> 
+        <Text>"I enjoy the modesty of the Alder Council." (1x Alder Council on Island)</Text>
+        <LineId>1600000295</LineId>
       </Text>
     </ModOp>
   </Group>
-  
+
   <!-- Specialist RC02Resi-AddWF-C01-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Marchand avec entourage</Text>
-          <LineId>1600000240</LineId> <!-- <GUID>1600000240</GUID> -->
+        <Text>Merchant with Entourage</Text>
+        <LineId>1600000240</LineId> <!-- <GUID>1600000240</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Elle a tellement à offrir qu'elle a toujours besoin d'être entourée d'hommes forts. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
-          <LineId>1600000241</LineId> 
+        <Text>Has so much to trade, always in need a company of strong man around. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
+        <LineId>1600000241</LineId>
       </Text>
     </ModOp>
   </Group>
-  
+
   <!-- Specialist C02Resi-AddWF-C01-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Chevalier épervier</Text>
-          <LineId>1600000242</LineId> <!-- <GUID>1600000242</GUID> -->
+        <Text>Lovestruck Wader</Text>
+        <LineId>1600000242</LineId> <!-- <GUID>1600000242</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Il veut offrir des fleurs à sa bien-aimée, mais ne trouve que des herbes. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
-          <LineId>1600000243</LineId> 
+        <Text>Wants to bring flowers to his love, but only finds herbs. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
+        <LineId>1600000243</LineId>
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist RE03E03HostE01-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+        <Text>Thermuthis Synallaxis, Star-guided Connector</Text>
+        <LineId>1600001225</LineId> <!-- <GUID>1600001225</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+        <Text>The stars are motivating her to bridge the cultural gap between Romans and Egyptians. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
+        <LineId>1600001226</LineId>
+      </Text>
+      <!-- Boosted Description -->
+      <Text>
+        <Text>"Let me observe the stars." &#xD;(1x Observatory on Island)</Text>
+        <LineId>1600001227</LineId>
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist E02HostE01-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+        <Text>Hardworking Thresher</Text>
+        <LineId>1600001228</LineId> <!-- <GUID>1600001228</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+        <Text>Dreams of finally becoming a potter. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
+        <LineId>1600001229</LineId>
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist E03HostE02-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+        <Text>Gracious Priestess</Text>
+        <LineId>1600001232</LineId> <!-- <GUID>1600001232</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+        <Text>"You are allowed to stay... for now." &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
+        <LineId>1600001233</LineId>
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist RE02HostE01-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+        <Text>Overworked Scribe</Text>
+        <LineId>1600001230</LineId> <!-- <GUID>1600001230</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+        <Text>Some additional muscle would be helpful. So he can focus more on writing. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
+        <LineId>1600001231</LineId>
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist RE03HostRE02-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+        <Text>Personal Scribe</Text>
+        <LineId>1600001234</LineId> <!-- <GUID>1600001234</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+        <Text>"I am here to write the story of... uhm... who was it again?" &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
+        <LineId>1600001235</LineId>
       </Text>
     </ModOp>
   </Group>
