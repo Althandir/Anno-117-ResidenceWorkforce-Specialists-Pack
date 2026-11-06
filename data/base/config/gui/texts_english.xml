@@ -191,17 +191,17 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-        <Text>PLACEHOLDER RE03E03HostE01-L</Text>
+        <Text>Placeholder, Stargazing Culturebuilder</Text>
         <LineId>1600001225</LineId> <!-- <GUID>1600001225</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-        <Text>PLACEHOLDER &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
+        <Text>The stars are motivating her to bridge the cultural gap between Romans and Egyptians. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
         <LineId>1600001226</LineId>
       </Text>
       <!-- Boosted Description -->
       <Text>
-        <Text>PLACEHOLDER &#xD;(1x Observatory on Island)</Text>
+        <Text>"Let me, observe them.". &#xD;(1x Observatory on Island)</Text>
         <LineId>1600001227</LineId>
       </Text>
     </ModOp>
@@ -212,12 +212,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-        <Text>PLACEHOLDER E02HostE01-R</Text>
+        <Text>Hardworking Thresher</Text>
         <LineId>1600001228</LineId> <!-- <GUID>1600001228</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-        <Text>PLACEHOLDER &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
+        <Text>Dreams of finally becoming a potter. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
         <LineId>1600001229</LineId>
       </Text>
     </ModOp>
@@ -228,12 +228,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-        <Text>PLACEHOLDER E03HostE02-R</Text>
+        <Text>Gracious Priestess</Text>
         <LineId>1600001232</LineId> <!-- <GUID>1600001232</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-        <Text>PLACEHOLDER &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
+        <Text>"You are allowed to stay... for now." &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
         <LineId>1600001233</LineId>
       </Text>
     </ModOp>
@@ -244,12 +244,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-        <Text>PLACEHOLDER RE02HostE01-R</Text>
+        <Text>Overworked Scribe</Text>
         <LineId>1600001230</LineId> <!-- <GUID>1600001230</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-        <Text>PLACEHOLDER &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
+        <Text>Some additional muscle would be helpful. So he can focus more on writing. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
         <LineId>1600001231</LineId>
       </Text>
     </ModOp>
