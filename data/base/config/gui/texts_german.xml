@@ -186,4 +186,88 @@
     </ModOp>
   </Group>
 
+  <!-- Specialist RE03E03HostE01-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+        <Text>Thermuthis Synallaxis, Sternengeleitete Brückenbauerin</Text>
+        <LineId>1600001225</LineId> <!-- <GUID>1600001225</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+        <Text>Die Sterne motivieren sie dazu, die kulturelle Kluft zwischen Römern und Ägyptern zu überbrücken.. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
+        <LineId>1600001226</LineId>
+      </Text>
+      <!-- Boosted Description -->
+      <Text>
+        <Text>"Lasst mich die Sterne beobachten." &#xD;(1x Observatorium auf Insel)</Text>
+        <LineId>1600001227</LineId>
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist E02HostE01-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+        <Text>Fleißiger Drescher</Text>
+        <LineId>1600001228</LineId> <!-- <GUID>1600001228</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+        <Text>Träumt davon, endlich Töpfer zu werden. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
+        <LineId>1600001229</LineId>
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist E03HostE02-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+        <Text>Gütige Priesterin</Text>
+        <LineId>1600001232</LineId> <!-- <GUID>1600001232</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+        <Text>"Du darfst bleiben... vorerst." &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
+        <LineId>1600001233</LineId>
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist RE02HostE01-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+        <Text>Überarbeiteter Schreiber</Text>
+        <LineId>1600001230</LineId> <!-- <GUID>1600001230</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+        <Text>Etwas zusätzliche Unterstützung wäre hilfreich, damit er sich stärker auf das Schreiben konzentrieren kann. &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
+        <LineId>1600001231</LineId>
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist RE03HostRE02-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+        <Text>Persönlicher Schreiber</Text>
+        <LineId>1600001234</LineId> <!-- <GUID>1600001234</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+        <Text>"Ich bin hier, um die Geschichte von ... äh ... wer war das noch gleich? ..." &#xD;(Altdolphin-ResidenceWorkforce-Pack)</Text>
+        <LineId>1600001235</LineId>
+      </Text>
+    </ModOp>
+  </Group>  
 </ModOps>
