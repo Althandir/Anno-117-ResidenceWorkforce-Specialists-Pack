@@ -1,0 +1,51 @@
+<ModOps>
+<!-- 
+###
+#   Contains Specialists for Albion Regional Traders & Raider
+### 
+  -->
+  <!-- RewardPool Common -->
+  <ModOp Type="add" GUID="83476,83472,83480" Path="/Values/RewardPool/ItemsPool">
+
+  </ModOp>
+
+  <!-- RewardPool Rare -->
+  <ModOp Type="add" GUID="83477,83473,83481" Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>1600000210</ItemLink>
+    </Item>
+    <Item>
+      <ItemLink>1600000240</ItemLink>
+    </Item>
+    <Item>
+      <ItemLink>1600000242</ItemLink>
+    </Item>
+    <Item>
+      <ItemLink>1600000190</ItemLink>
+    </Item>
+  </ModOp>
+
+  <!-- RewardPool Epic Traders -->
+  <ModOp Type="add" GUID="83478,83474,83482" Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>1600000124</ItemLink>
+    </Item>
+    <Item>
+      <ItemLink>1600000126</ItemLink>
+    </Item>
+  </ModOp>
+
+  <!-- RewardPool Legendary Traders -->
+  <ModOp Type="add" GUID="83479,83475,83483" Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>1600000238</ItemLink>
+    </Item>
+  </ModOp>
+
+</ModOps>
+
+
+
+
+
+

@@ -1,6 +1,6 @@
 {
   "ModID": "althandir-altdolphin-specialists-residenceworkforce-pack",
-  "Version": "1.0.1",
+  "Version": "3.0.0",
   "Anno": 8,
   "IncompatibleIds": null,
   "ModDependencies": null,
@@ -81,7 +81,29 @@
     "TradePrice_Legendary":
     {
       "default": "750000"
+    },
+    "Attributes_Common":
+    {
+      "default": "-3"
+    },
+    "Attributes_Rare":
+    {
+      "default": "-3"
+    },
+    "Attributes_Epic":
+    {
+      "default": "-3"
+    },
+    "Attributes_Legendary":
+    {
+      "default": "-3"
+    },
+    "Attributes_Legendary_Boosted":
+    {
+      "default": "-4"
     }
+
+
   }
 
 }

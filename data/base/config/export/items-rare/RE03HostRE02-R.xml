@@ -1,0 +1,100 @@
+<ModOps>
+  <!-- Item Definition GUID:1600001234 - 1600001235 | LineID:1600001234 - 1600001235 -->
+  <Group>
+    <ModOp Type="addNextSibling" GUID="106410">
+      <Asset>
+        <Template>Item</Template>
+        <Values>
+          <Standard>
+            <GUID>1600001234</GUID>
+            <Name>Specialist RE03HostRE02-R</Name>
+            <IconFilename>data/base/graphics/icons/ResiWF-Pack/RE03HostRE02-R.png</IconFilename>
+            <InfoDescription>1600001235</InfoDescription>
+          </Standard>
+          <Effect>
+            <EffectScope>Radius</EffectScope>
+            <SourceCategory>Item</SourceCategory>
+            <Buffs>
+              <Item>
+                <GUID>1600001235</GUID>
+              </Item>
+            </Buffs>
+            <Targets> <!-- Targets of Buff -->
+              <Item>
+                <GUID>150587</GUID>
+              </Item>
+            </Targets>
+            <HideInGovernorsBar>1</HideInGovernorsBar>
+          </Effect>
+          <Item>
+            <Niche>Diplomacy</Niche>
+            <TradePrice><ModValue Insert="$TradePrice_Rare"/></TradePrice>
+            <Origin>DLC03</Origin>
+            <BarkPool>0</BarkPool> <!-- <GUID>0</GUID> -->
+            <Rarity>Rare</Rarity>
+          </Item>
+          <Locked>
+            <DefaultLockedState>0</DefaultLockedState>
+          </Locked>
+          <Text>
+            <OasisId>1600001234</OasisId>
+          </Text>
+        </Values>
+      </Asset>
+    </ModOp>
+  </Group>
+
+  <!-- Buff Definitions-->
+  <Group>
+    <!-- BuildingEffect Definition -->
+    <ModOp Type="addNextSibling" GUID="80193">
+      <Asset>
+        <Template>BuildingBuff</Template>
+        <Values>
+          <Standard>
+            <GUID>1600001235</GUID>
+            <Name>Specialist RE03HostRE02-R BuildingBuff</Name>
+            <IconFilename>data/base/graphics/icons/ResiWF-Pack/RE03HostRE02-R.png</IconFilename>
+          </Standard>
+          <Text>
+            <OasisId>1600001234</OasisId>
+          </Text>
+          <BuildingUpgrade>
+            <AdditionalAttributes>
+              <Happiness>
+                <AmountOrPercent>
+                  <Value><ModValue Insert="$Attributes_Rare"/></Value>
+                  <Percental>0</Percental>
+                </AmountOrPercent>
+              </Happiness>
+              <Health>
+                <AmountOrPercent>
+                  <Value><ModValue Insert="$Attributes_Rare"/></Value>
+                  <Percental>0</Percental>
+                </AmountOrPercent>
+              </Health>
+              <FireSafety>
+                <AmountOrPercent>
+                  <Value><ModValue Insert="$Attributes_Rare"/></Value>
+                  <Percental>0</Percental>
+                </AmountOrPercent>
+              </FireSafety>
+            </AdditionalAttributes>
+            <AdditionalWorkforces>
+              <Item>
+                <WorkforceGUID>150545</WorkforceGUID>
+              </Item>
+            </AdditionalWorkforces>
+          </BuildingUpgrade>
+          <Buff>
+            <SourceCategory>Item</SourceCategory>
+          </Buff>
+        </Values>
+      </Asset>
+    </ModOp>
+
+  </Group>
+
+</ModOps>
+
+
